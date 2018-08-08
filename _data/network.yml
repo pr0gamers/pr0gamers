@@ -1,0 +1,21 @@
+- menu_name: "Agradecimentos"
+
+- name: "Icones por Daniel Bruce"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Icones por Daniel Bruce"
+
+- name: "Feito com a Foundation Framework"
+  url: "http://foundation.zurb.com/"
+  class: "services-newsletter"
+  title: "Feito com a Foundation Framework"
+
+- name: "Imagens por Supercell"
+  url: "http://supercell.com/"
+  class: "rss-link"
+  title: "Imagens by Supercell"
+
+- name: "Usando Backstretch por Scott Robbin"
+  url: "http://srobbin.com/jquery-plugins/backstretch/"
+  class: "sitemap-link"
+  title: "Usando Backstretch por Scott Robbin"
