@@ -11,11 +11,11 @@ header:
 ## Características
 
 * Jogamos muito sério, mas não somos fanáticos.
-* O pessoal é muito receptivo e unido, jogamos juntos a anos.
-* Temos grupo no whatsapp e <u><strong>NÃO É</strong></u> permitido fica falando "abobrinhas".
+* O pessoal é muito receptivo e unido, jogamos juntos ha anos.
+* Temos grupo no whatsapp e <u><strong>NÃO É</strong></u> permitido ficar falando "abobrinhas".
 * Temos página no <a href="http://facebook.com.br/pr0gamers" target="_blank"> FaceBook </a>.
 * Estamos bem organizados, a lideraça acompanha as estatísiticas de todos os jogadores.
-* Toda segunda feira, enviamos um relatório de desempenho.
+* Toda segunda-feira, enviamos um relatório de desempenho.
 * As promoções seguem uma <a href="{{ site.url }}{{ site.baseurl }}/regras/">regra</a> e acontecem no primeiro dia de cada temporada.
 * Os jogadores só são "kickados" por mal desempenho / comportamento <a href="{{ site.url }}{{ site.baseurl }}/regras/"> vide regras</a>.
 * Jogamos muitas batalhas de treino todos os dias, seguidas de dicas e sugestões.
