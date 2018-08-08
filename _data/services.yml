@@ -1,7 +1,7 @@
 - menu_name: "Fale Conosco"
 
 - name: "Mande uma mensagem"
-  url: "/contact/"
+  url: "/contato/"
   title: "Contato"
 
 - name: "Facebook"

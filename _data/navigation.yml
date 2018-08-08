@@ -3,11 +3,11 @@
   side: left
 
 - title: SOBRE O CLAN
-  url: "/info/"
+  url: "/sobre/"
   side: left
 
 - title: "REGRAS"
-  url: "/design/"
+  url: "/regras/"
   side: left
   dropdown:
   - title: "Faça Parte"
