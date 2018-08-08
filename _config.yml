@@ -11,7 +11,7 @@
 title: 'Pr0GamErs - Clash Royale'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Focados em Guerra de Clans e no Desenvolvimento dos Jogadores'
+#slogan: 'Focados em Guerra de Clans e no Desenvolvimento dos Jogadores'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Somo um Clan de Clash Royale. Estamos focados nas Guerras de Clans e nos Desenvolvimento dos Jogadores'
@@ -27,7 +27,7 @@ author: phlow
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://pr0gamers.github.io'
-baseurl: '/progamers'
+baseurl: '/pr0gamers'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
