@@ -24,8 +24,8 @@ header:
 
 ## Objetivo e Filosofia
 
-Queremos fazer parte do ranking nacional (TOP 200) nas "Guerras de Clan" e do ranking de "Troféus do Clan". Desta forma, acreditamos que a "Guerra de Clan" seja um bom caminho para alcançarmos estes objetivos. <br><br>
-Entendemos que ela ajuda no desenvolvimento de novas habilidades, melhora o conhecimento das cartas, decks de guerra, assim como no gerenciamento de elixir e do tempo de jogo. <br><br>
+Queremos fazer parte do ranking nacional (TOP 200) e acreditamos que a "Guerra de Clan" seja um bom caminho para alcançarmos nosso objetivos. <br><br>
+A "Guerra de Clans" ajuda os jogadores no desenvolvimento de novas habilidades, melhora o conhecimento das cartas, diferentes decks de guerra assim como no gerenciamento de elixir e do tempo de jogo. <br><br>
 Junto com as batalhas, a troca de informações com os jogadores sobre os "erros e acertos" que cometemos durante uma partida aceleram a curva de aprendisado e leva nossos jogadores para um patamar mais alto.<br><br>
 Tudo isso de forma sempre proativa e cordial, visando o fortalecimento do grupo antes do crescimento individual de um um jogador específico. Com esta filosofia, conseguimos uma equipe unida e amiga, que se diverte jogando e evolui a cada temporada.
 
