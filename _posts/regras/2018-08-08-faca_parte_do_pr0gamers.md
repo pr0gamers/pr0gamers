@@ -30,8 +30,9 @@ callforaction:
 
 permalink: /regras/faca_parte_do_pr0gamers/
 ---
-
-<center>## »Requisitos«</center>
+<td style="vertical-align: middle;">
+<h2 style="text-align: center;"> »Requisitos«</h2>
+</td>
 <ul></ul>
 
 ##### Conquitas:
