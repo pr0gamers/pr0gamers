@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Faça Parte"
-    url: "/design/grid/"
+    url: "/regras/faca_parte_do_pr0gamers/"
   - title: "Regras do WhatsApp"
     url: "/design/typography/typography/"
   - title: "Como Receber Patentes"
@@ -32,7 +32,7 @@
   #  url: "/design/portfolio/"
 
 - title: "FAÇA PARTE"
-  url: "/facaparte/"
+  url: "/regras/faca_parte_do_pr0gamers/"
   side: left
 #  dropdown:
 #  - title: "Header with Full-Width-Image"
