@@ -31,7 +31,7 @@ callforaction:
 permalink: /regras/faca_parte_do_pr0gamers/
 ---
 
-## »Requisitos«
+<center>## »Requisitos«</center>
 <ul></ul>
 
 ##### Conquitas:
