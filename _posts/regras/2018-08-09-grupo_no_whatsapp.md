@@ -19,7 +19,7 @@ header: no
 image:
   title: whatsapp.jpg
   thumb: thumb_whatsapp.jpg
-  homepage: faca_parte.jpg
+  homepage: whatsapp.jpg
   caption: Imagem por WhatsApp
   caption_url: https://www.whatsapp.com/
 
@@ -40,7 +40,7 @@ Desta forma, existem coisa que <strong>podem</strong> e coisas que <strong>não 
 <li>Pornografia</li>
 <li>Correntes de nenhum tipo</li>
 <li>Brigar ou desrespeitar alguem</li>
-<li>Imagens, videos, ou até conversas que não estejam relacionadas ao Clahs Rouale</li>
+<li>Imagens, videos, ou até conversas que não estejam relacionadas ao Clahs Royale</li>
 </ol>
 <ul></ul>
 
