@@ -6,6 +6,12 @@ teaser: "Focados em Guerras de Clan e no Desenvolvimento dos Jogadores."
 permalink: "/sobre/"
 header:
     image_fullwidth: "header_sobre.png"
+
+callforaction:
+    url: https://spy.deckshop.pro/clan/CL9Y0U
+    text: Conheça mais detalhes sobre o Clan ›
+    style:
+    permalink: /sobre/    
 ---
 
 ## Características
@@ -24,11 +30,13 @@ header:
 
 ## Objetivo e Filosofia
 
-Queremos fazer parte do ranking nacional (TOP 200) e acreditamos que a "Guerra de Clan" seja o melhor caminho para alcançarmos nosso objetivos. <br><br>
+Queremos fazer parte do ranking nacional (TOP 200) e acreditamos que a "Guerra de Clan" seja o melhor caminho para alcançarmos nossos objetivos. <br><br>
 A "Guerra de Clans" ajuda os jogadores no desenvolvimento de novas habilidades, melhora o conhecimento das cartas, diferentes decks de ataque assim como no gerenciamento do elixir e do "tempo de jogo". <br><br>
-Juntamente com as "Guerras de Clan", a troca de informações entre jogadores sobre os "erros e acertos" que cometemos durante uma partida acelera a curva de aprendisado e leva nosso time para um patamar mais elevado.<br><br>
-E tudo isso acontece de forma proativa e cordial! Visando sempre o fortalecimento do grupo antes do crescimento individual de um um jogador específico. Com esta filosofia, conseguimos uma equipe unida e amiga, que se diverte jogando e evolui a cada temporada.
+Juntamente com as "Guerras de Clan", a troca de informações entre jogadores sobre os "erros e acertos" que cometemos durante uma partida acelera a curva de aprendizado e leva nosso time para um patamar mais elevado.<br><br>
+Tudo isso acontece de forma proativa e cordial! Visamos sempre o fortalecimento do grupo antes do crescimento individual de um jogador específico. Com esta filosofia, conseguimos uma equipe unida e amiga, que se diverte jogando e evolui a cada temporada.
 
-
-## Conheça nossos números.
-##### Visite : <a href="https://spy.deckshop.pro/clan/CL9Y0U" target="_blank"> Pr0GamErs </a>
+<div class="row t60 b60">
+    <div class="small-12 text-center columns">
+        <a class="button large radius {{ page.callforaction.style }}" href="{{page.callforaction.url}}" target="_blank">{{page.callforaction.text}}</a>
+    </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
