@@ -21,7 +21,7 @@ widget3:
   title: "Faça Parte"
   url: '/regras/faca_parte_do_pr0gamers/'
   image: widget_facaparte-303x182.png
-  text: 'Quer vir jogar conosco no clan? <strong>Que ótimo!</strong><br> Nem todo mundo pode fazer parte, existen akguns requisitos. Descubra o que vc precisa fazer no botão abaixo.'
+  text: 'Quer vir jogar conosco no clan? <strong>Que ótimo!</strong><br> Nem todo mundo pode fazer parte, existen alguns requisitos. Descubra o que vc precisa fazer no botão abaixo.'
 #
 # Use the call for action to show a button on the frontpage
 #
