@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_frontpage.png
 widget1:
   title: "Conheça o Pr0GamErs"
   url: '/sobre/'

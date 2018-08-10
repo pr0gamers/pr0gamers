@@ -29,6 +29,8 @@ callforaction:
   style: alert
   permalink: /regras/grupo_no_whatsapp/
 
+comments: true
+
 ---
 
 <p> Aqui no ProGamErs nós temos jovens, velhos, fortes, magos, casados, solteiros, sem filhos, com filhos e somos todos amigos e exelentes jogadores. <br><br>

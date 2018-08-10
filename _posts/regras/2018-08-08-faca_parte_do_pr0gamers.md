@@ -27,8 +27,9 @@ callforaction:
     url: https://docs.google.com/forms/d/e/1FAIpQLSdwaUdM6kyJn7BqjKj7JGmlGeXA_jmRmz4-gGg0UPNZ3GE2gg/viewform
     text: Faça Parte do Pr0GamErs ›
     style: alert
+    permalink: /regras/faca_parte_do_pr0gamers/
 
-permalink: /regras/faca_parte_do_pr0gamers/
+comments: true    
 ---
 <td style="vertical-align: middle;">
 <h2 style="text-align: center;"> »Requisitos«</h2>

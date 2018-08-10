@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Clan Pr0GamErs'
+title: 'Pr0GamErs'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 #slogan: 'Focados em Guerra de Clans e no Desenvolvimento dos Jogadores'
@@ -207,7 +207,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-# disqus_shortname: feelingresponsive
+disqus_shortname: pr0gamers
 
 
 #      _____
