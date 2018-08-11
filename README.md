@@ -23,6 +23,7 @@ callforaction:
 * "kicks" somente por abandono do jogo ou mal desempenho/comportamento <a href="{{ site.url }}{{ site.baseurl }}/regras/"> vide regras</a>.
 * Jogamos muitas batalhas de treino todos os dias, seguidas de dicas e sugestões.
 * Amigos dos membros são muito bem vindos!
+
 **[Saiba Mais ›][1]**
 
 ## Objetivo e Filosofia
@@ -32,7 +33,7 @@ A "Guerra de Clans" ajuda os jogadores no desenvolvimento de novas habilidades, 
 Juntamente com as "Guerras de Clan", a troca de informações entre jogadores sobre os "erros e acertos" que cometemos durante uma partida acelera a curva de aprendizado e leva nosso time para um patamar mais elevado.<br><br>
 Tudo isso acontece de forma proativa e cordial! Visamos sempre o fortalecimento do grupo antes do crescimento individual de um jogador específico. Com esta filosofia, conseguimos uma equipe unida e amiga, que se diverte jogando e evolui a cada temporada.
 
-**[Faça parte do Clan ›][2]**
+**[FAÇA PARTE DO CLAN ›][2]**
 
 
 
