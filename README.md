@@ -1,3 +1,10 @@
+---
+callforaction:
+    url: https://pr0gamers.github.io/pr0gamers/regras/faca_parte_do_pr0gamers/
+    text: Faça Parte do Pr0GamErs ›
+    style: alert
+    permalink: /regras/faca_parte_do_pr0gamers/
+---
 
 ##### Venha Batalhar Conosco
 <h1>Somo do Clan Pr0GamErs (#CL9Y0U) no Clash Royale</h1>
@@ -25,6 +32,11 @@ A "Guerra de Clans" ajuda os jogadores no desenvolvimento de novas habilidades, 
 Juntamente com as "Guerras de Clan", a troca de informações entre jogadores sobre os "erros e acertos" que cometemos durante uma partida acelera a curva de aprendizado e leva nosso time para um patamar mais elevado.<br><br>
 Tudo isso acontece de forma proativa e cordial! Visamos sempre o fortalecimento do grupo antes do crescimento individual de um jogador específico. Com esta filosofia, conseguimos uma equipe unida e amiga, que se diverte jogando e evolui a cada temporada.
 
+<div class="row t60 b60">
+    <div class="small-12 text-center columns">
+        <a class="button large radius {{ page.callforaction.style }}" href="{{page.callforaction.url}}" target="_blank">{{page.callforaction.text}}</a>
+    </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
