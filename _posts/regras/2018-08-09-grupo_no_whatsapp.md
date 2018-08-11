@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Venha Participar"
-title: "Grupo no WhatApp"
+title: "Grupo no WhatsApp"
 teaser: "Não tem baboseiras nem abobrinhas. Falamos do jogo, do meta atual, de estratégias, patentes, batalhas, decks, etc. Vale a pena participar!"
 categories:
   - regras
