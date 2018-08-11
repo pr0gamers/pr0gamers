@@ -45,8 +45,8 @@ comments: true
 </ul>
 ##### Seu deck principal precisa ter:
 <ul>
-<li>Cartas normais : Nivel 10/11</li>
-<li>Cartas raras : Nivel 9/10</li>
+<li>Cartas normais: Nivel 10/11</li>
+<li>Cartas raras: Nivel 9/10</li>
 <li>Cartas épicas: Nivel 5/6</li>
 <li>Cartas Lendárias: Nivel 2/3</li>
 </ul>
