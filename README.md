@@ -9,7 +9,7 @@
 * Jogamos muito sério, mas não somos fanáticos.
 * O pessoal é muito receptivo e unido, jogamos juntos há anos.
 * Temos grupo no whatsapp e <u><strong>NÃO É</strong></u> permitido ficar falando "abobrinhas".
-* Temos página no <a href="http://facebook.com.br/pr0gamers" target="_blank"> FaceBook </a>.
+* Temos página no <a href="http://facebook.com.br/pr0gamers"> FaceBook </a>.
 * Estamos bem organizados, a liderança acompanha as estatísticas de todos os jogadores.
 * Toda segunda-feira, enviamos um relatório de desempenho.
 * As promoções seguem uma <a href="https://pr0gamers.github.io/pr0gamers/regras/">regra</a> e acontecem no primeiro dia de cada temporada.
