@@ -1,6 +1,6 @@
 ---
 callforaction:
-    url: https://pr0gamers.github.io/pr0gamers/regras/faca_parte_do_pr0gamers/
+    url: /regras/faca_parte_do_pr0gamers/
     text: Faça Parte do Pr0GamErs ›
     style: alert
     permalink: /regras/faca_parte_do_pr0gamers/
