@@ -1,10 +1,3 @@
----
-callforaction:
-    url: /regras/faca_parte_do_pr0gamers/
-    text: Faça Parte do Pr0GamErs ›
-    style: alert
-    permalink: /regras/faca_parte_do_pr0gamers/
----
 
 ##### Venha Batalhar Conosco
 <h1>Somo do Clan Pr0GamErs (#CL9Y0U) no Clash Royale</h1>
