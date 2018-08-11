@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_faleconosco.png"
 ---
 
-##### Quer fazer parte do Pr0GamErs, <a href="{{ site.url }}{{ site.baseurl }}/regras/faca_parte_do_pr0gamers/"> VEJA AQUI</a> ou então:
+##### <a href="{{ site.url }}{{ site.baseurl }}/regras/faca_parte_do_pr0gamers/"> VEJA AQUI</a> como fazer parte do Pr0GamErs,  ou então:
 <br>
 
 

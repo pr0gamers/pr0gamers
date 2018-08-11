@@ -31,7 +31,7 @@ callforaction:
 comments: true    
 ---
 
-PARABÉNS PESSOAL!
+PARABÉNS PESSOAL!<br>
 Quem quiser entender as regas para promoções e patentes no clan pode ler <a href="/regras/">neste link</a>.<br><br>
 Se você já faz parte do <em>Pr0GamErs</em> e gostaria de entender melhor sua pontuação de mérito, mande uma mensagem para o Otuoc no nosso grupo do WhatsApp.
 
