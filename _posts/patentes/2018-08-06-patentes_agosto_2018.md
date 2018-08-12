@@ -53,4 +53,4 @@ Se você já faz parte do <em>Pr0GamErs</em> e gostaria de entender melhor sua p
 
 A próxima avaliação sera feita no dia 03/09/2018! <br>
 Os 15 primeiros no nosso ranking de mérito vão receber patente. <br>
-Se algum ancião não ficar entre os 15 primeiros (até o dia 03/09) ele ele cede a patente para outro membro que tenha conseguido.
+Se algum ancião não ficar entre os 15 primeiros (até o dia 03/09) ele cede a patente para outro membro que tenha conseguido.
