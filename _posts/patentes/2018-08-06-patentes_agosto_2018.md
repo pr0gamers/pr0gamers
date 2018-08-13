@@ -36,17 +36,17 @@ Quem quiser entender as regas para promoções e patentes no clan pode ler <a hr
 Se você já faz parte do <em>Pr0GamErs</em> e gostaria de entender melhor sua pontuação de mérito, mande uma mensagem para o Otuoc no nosso grupo do WhatsApp.
 
 <ul>
-<li>Dartinous</li>
-<li>Antônio Brytag</li>
-<li>CARLOS</li>
-<li>Alisson</li>
-<li>nekisüs™✨</li>
-<li>zeusepico</li>
-<li>Jaum Jaum</li>
-<li>Helyons</li>
-<li>vitor jahn</li>
-<li>Feltrin</li>
-<li>Giovanni _Borto</li>
+  <li>Dartinous</li>
+  <li>Antônio Brytag</li>
+  <li>CARLOS</li>
+  <li>Alisson</li>
+  <li>nekisüs™✨</li>
+  <li>zeusepico</li>
+  <li>Jaum Jaum</li>
+  <li>Helyons</li>
+  <li>vitor jahn</li>
+  <li>Feltrin</li>
+  <li>Giovanni _Borto</li>
 </ul>
 
 ##### Lembrando que:

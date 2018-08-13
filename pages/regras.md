@@ -10,8 +10,6 @@ permalink: "/regras/"
 
 
 
-
-
 <ul>
     {% for post in site.categories.regras %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
