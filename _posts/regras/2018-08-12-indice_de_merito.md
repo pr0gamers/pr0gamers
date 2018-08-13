@@ -69,7 +69,7 @@ Por exemplo:<br>
 <em>Se o jogador teve nota 8 no Índice de Coleta, 7 no Índice de Doações e , 10 no Índice de Vitórias em Guerra o Índice de Mérito dele vai ser ( 8 + 7 + 10) / 3 = 8,33.</em><br>
 
 Os jogadores com os maiores índices de mérito são aqueles que receberão <strong>promoções e patentes</strong> no final da temporada. <br><br>
-Se você quiser entender o que precisa fazer para receber uma patente e se tornar um ancião <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">leia aqui neste outro post</a>
+Se você quiser entender o que precisa fazer para receber uma patente e se tornar um ancião <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">leia aqui neste outro post</a>.
 
 
 
