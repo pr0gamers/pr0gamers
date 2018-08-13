@@ -38,17 +38,17 @@ comments: true
 
 ##### Conquitas:
 <ul>
-<li>Mais de 4.300 troféus</li>
-<li>Mais de 25 vitórias em Guerras de Clan</li>
-<li>Mais de 30.000 doações</li>
-<li>Mínimo de 10 vitorias em desafio</li>
+  <li>Mais de 4.300 troféus</li>
+  <li>Mais de 25 vitórias em Guerras de Clan</li>
+  <li>Mais de 30.000 doações</li>
+  <li>Mínimo de 10 vitorias em desafio</li>
 </ul>
 ##### Seu deck principal precisa ter:
 <ul>
-<li>Cartas normais: Nivel 10/11</li>
-<li>Cartas raras: Nivel 9/10</li>
-<li>Cartas épicas: Nivel 5/6</li>
-<li>Cartas Lendárias: Nivel 2/3</li>
+  <li>Cartas normais: Nivel 10/11</li>
+  <li>Cartas raras: Nivel 9/10</li>
+  <li>Cartas épicas: Nivel 5/6</li>
+  <li>Cartas Lendárias: Nivel 2/3</li>
 </ul>
 <ul></ul>
 
