@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Quer receber patente?"
-title: "Como ganhar patente de Ancião?"
+title: "Como virar Ancião?"
 teaser: "O título de ancião é um reconhecimento! O jogador precisa ter comprometimento e mérito. Alem disso, junto com grandes poderes, você recebe grandes responsabilidades."
 categories:
   - regras

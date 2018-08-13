@@ -50,8 +50,8 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
 
-#- title: Documentos
-#  url: "/documentation/"
+#- title: Content
+#  url: "/table_of_content/"
 #  side: left
 #  dropdown:
 #  - title: "Changelog"
