@@ -36,17 +36,17 @@ Existem muitas métricas no jogo e atualmente 3 delas formam o nosso <strong>Ind
   <li> Quantidade de vitórias em Guerras </li>
 </ol> 
 
-Acompanhamos diariamente os valores de cada uma destas 3 métricas para todos os jogadores do Clan e eles geram os 3 índices de desempenho que explico a seguir. 
+Acompanhamos diariamente os valores de cada uma destas 3 métricas para todos os jogadores do Clan e elas geram os 3 índices de desempenho que explico a seguir. 
 
 ### 1) Índice de Coleta
 Dentro da temporada, o jogador que consegue coletar o maior numero de cartas nas batalhas de coleta recebe a nota 10. As demais notas são distribuídas para todos os jogadores de forma comparativa e proporcional. <br>
 
 Por exemplo: <br>
-Suponha que Jogador 1 foi o que mais coletou cartas em batalhas de coleta com um total de 100 cartas (o numero não importa, estou apenas tentando explicar a lógica). <br> 
+<em>Suponha que Jogador 1 foi o que mais coletou cartas em batalhas de coleta com um total de 100 cartas (o numero não importa, estou apenas tentando explicar a lógica).</em> <br> 
 
 Se ele foi o jogador com a maior quantidade de cartas coletadas na temporada, ele vai receber <em>a nota 10 </em>. Se um outro jogador (jogador 2) coletou 80 cartas, ele vai receber uma nota proporcional <em>nota 8</em> e um terceiro jogador (jogador 3) que coletou 70 cartas, recebe a <em>nota 7</em>. <br>
 
-Desta forma, todos recebem uma nota variando de 0 a 10 para a métrica <em>Cartas Coletadas</em>.<br>
+Desta forma, todos recebem uma nota variando entre 0 a 10 para a métrica <em>Cartas Coletadas</em>.<br>
 
 ### 2) Índice de Doações
 
@@ -55,7 +55,7 @@ O raciocínio para a quantidade de cartas doadas durante a temporada é o mesmo.
 ### 3) Índice de Vitórias em Guerra
 
 Esta parte é um pouco diferente das outas duas.<br><br>
-Cada vitória em batalhas finais nas guerras rende <em>1 ponto</em> para o jogador e a cada derrota o jogador <u>perde</u> <em>1 ponto<em>. <br><br>
+Nas Guerras de Clan, cada vitória na batalha final rende <em>1 ponto</em> para o jogador. Da mesma forma, a cada derrota o jogador <u>perde</u> <em>1 ponto</em>. <br><br>
 Durante a temporada, os pontos ganhos ou perdidos nas vitórias e derrotas são somadas e no final o jogador com o maior numero de pontos recebe a nota 10 e os demais jogadores recebem suas notas de forma comparativa e proporcional.<br>
 
 ##### Importante:
@@ -66,9 +66,10 @@ Caso um jogador não faça a batalha final da guerra (chamamos de W.O.) ele perd
 É a média dos 3 índices explicados acima. <br>
 
 Por exemplo:<br>
-Se o jogador teve nota 8 no Índice de Coleta, 7 no Índice de Doações e , 10 no Índice de Vitórias em Guerra o Índice de Mérito dele vai ser ( 8 + 7 + 10) / 3 = 8,33.
+<em>Se o jogador teve nota 8 no Índice de Coleta, 7 no Índice de Doações e , 10 no Índice de Vitórias em Guerra o Índice de Mérito dele vai ser ( 8 + 7 + 10) / 3 = 8,33.</em><br>
 
-
+Os jogadores com os maiores índices de mérito são aqueles que receberão <strong>promoções e patentes</strong> no final da temporada. <br><br>
+Se você quiser entender o que precisa fazer para receber uma patente e se tornar um ancião <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">leia aqui neste outro post</a>
 
 
 
