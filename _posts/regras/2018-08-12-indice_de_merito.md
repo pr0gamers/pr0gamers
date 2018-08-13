@@ -20,8 +20,8 @@ image:
     title: merito.jpg
     thumb: thumb_merito.jpg
     homepage: merito.jpg
-    caption: Imagem por Supercell
-    caption_url: https://www.supercell.com/
+    caption: 
+    caption_url: 
 
 comments: true    
 ---
