@@ -75,3 +75,9 @@
 - title: "Contato"
   url: "/contato/"
   side: left
+
+- name: Facebook
+  url: http://www.facebook.com/pr0gamers
+  class: icon-facebook
+  title: "Curta nossa Página"
+  side: right
