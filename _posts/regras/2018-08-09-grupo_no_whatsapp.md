@@ -33,8 +33,8 @@ comments: true
 
 ---
 
-<p> Aqui no ProGamErs nós temos jovens, velhos, fortes, magos, casados, solteiros, sem filhos, com filhos e somos todos amigos e exelentes jogadores. <br><br>
-Mas como cada um teus seus "problema e loucuras" criamos algumas "regras de convivência" para evitarmos problemas maiores com família, religião, filhos, esposas, maridos, periquitos ou papagaios. <br><br>
+<p> Aqui no ProGamErs nós temos jovens, velhos, fortes, magros, casados, solteiros, sem filhos, com filhos e somos todos amigos e exelentes jogadores. <br><br>
+Mas como cada um teus seus "problemas e loucuras" criamos algumas "regras de convivência" para evitarmos problemas maiores com família, religião, filhos, esposas, maridos, periquitos ou papagaios. <br><br>
 Desta forma, existem coisa que <strong>podem</strong> e coisas que <strong>não podem</strong> acontecer no nosso grupo do WhatsApp</p>  
 
 ## »NÃO PODE ACONTECER«
