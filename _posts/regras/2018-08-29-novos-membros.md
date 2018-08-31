@@ -27,7 +27,7 @@ comments: true
 
 ## Veja ai embaixo o nosso "resuminho"!
 
-São apenas 4 coisas e é bem fácil e rápido, basta acessar os links da lista que colocamos ai em baixo.Se você tiver alguma dúvida, pode mandar uma mensagem pelo nosso contato ou chamar algum ancião/colider no nosso grupo do WhatsApp.
+São apenas 4 coisas e é bem fácil e rápido, basta acessar os links da lista que colocamos ai em baixo.Se você tiver alguma dúvida, pode mandar uma mensagem pelo nosso <a href="{{ site.url }}{{ site.baseurl }}/contato" target="_blank">contato</a> ou chamar algum ancião/colider no nosso grupo do WhatsApp.
 <br>
 
 <ol>
