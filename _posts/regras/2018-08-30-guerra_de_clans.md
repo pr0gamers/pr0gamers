@@ -31,7 +31,7 @@ comments: true
 Como explicamos na <a href="{{ site.url }}{{ site.baseurl }}/sobre" target="_blank">página que fala sobre o clan,</a> no Pr0GamErs estamos focados nas Guerras. Por isso, damos muita atenção para o <strong>dia da coleta</strong>, os <strong>treinamentos</strong> antes das guerras e <strong>resultados</strong> das batalhas finais.
 <br>
 
-> <span class="teaser">Para continuar no clan, o jogador tem que participar das guerras!</span><cite>[Junior C. - Colider e General de Guerras no Pr0GamErs]</cite>
+> <span class="teaser">As Guerras permitem que um jogador chegue no seu potencial rapidamente. Ela nos tira da zona de conforto, forçando-nos testar novos decks, melhorando nossa capacidade de compreender o potencial de cada carta. É justamente por isso que <strong>todos</strong> precisam participar na guerra aqui no Pr0GamErs!</span><cite>[Junior C. - Colider e General de Guerras no Pr0GamErs]</cite>
 
  Embora não seja necessário participar de todas as guerras, o <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank">indice de mérito</a> considera tanto as cartas coseguidas nas batalhas de coleta como os resultados nas batalhas finais. Desta forma, os jogadores que não participam muito das guerras podem ficar com um índice menor que o dos outros. Os jogadores com menor índice (desempenho mais fraco) são os que serão avaliados para sair do Clan. <br>
 
