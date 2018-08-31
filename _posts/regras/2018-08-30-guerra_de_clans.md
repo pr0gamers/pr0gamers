@@ -5,14 +5,13 @@ layout: page
 #
 subheadline: "Estamos constantemente em Guerra"
 title: "Guerra de Clans"
-teaser: "No Pr0GamErs estamos <u>sempre</u> em guerra. Assim que acaba uma, começamos a outra."
+teaser: "Nós estamos <u>sempre</u> em guerra. Assim que acaba uma, começamos a outra."
 categories:
   - regras
 tags:
   - Regras
   - Clash Royale
-  - Patentes
-  - Colider
+  - Guerra de Clans
 #
 # Styling
 #
