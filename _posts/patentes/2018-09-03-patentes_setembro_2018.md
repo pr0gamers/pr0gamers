@@ -18,7 +18,7 @@ header: no
 image:
     title: LegendTrophy.png
     thumb: LegendTrophy.png
-    homepage: LegendTrophy.png
+    homepage:
     caption: Imagem por Supercell
     caption_url: https://www.supercell.com/
 
