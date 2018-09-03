@@ -37,7 +37,7 @@ Existem muitas métricas no jogo e atualmente 4 delas podem formar nosso <strong
   <li> Quantidade de batalhas de treino antes da guerra</li>
 </ol> 
 
-Acompanhamos diariamente os valores de cada uma destas 3 métricas para todos os jogadores do Clan e elas geram os 3 índices de desempenho que explico a seguir. 
+Acompanhamos diariamente os valores de cada uma destas métricas para todos os jogadores do Clan e elas geram os índices de desempenho que explico a seguir. 
 
 ### 1) Índice de Coleta
 Dentro da temporada, o jogador que consegue coletar o maior numero de cartas nas batalhas de coleta recebe a nota 10. As demais notas são distribuídas para todos os jogadores de forma comparativa e proporcional. <br>
@@ -73,6 +73,7 @@ Em nossas estatísticas percebemos que os jogadores que treinam antes da batalha
 
 <strong>Exemplo:</strong><br>
 Se o jogador teve nota 10 no Índice de Vitórias em Guerra, 8 no Índice de Coleta, 6 no Índice de Doações e 7 no Índice de Treinos, o Índice de Mérito dele vai ser ( 8 + 7 + 10) / 3 = 8,33 (descartamenos a nota 6 [pois é a menor nota entre o Índice de Doações e o Índice de Treinos).<br><br> 
+
 <strong>Importante:</strong><br> 
 As notas relativas ao índice de guerra e o índice de coleta nunca são descartadas, mesmo que sejam as menores.
 
