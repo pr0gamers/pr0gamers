@@ -28,12 +28,13 @@ comments: true
 
 ## Mérito
 
-Existem muitas métricas no jogo e atualmente 3 delas formam o nosso <strong>Indice de Mérito</strong>.
+Existem muitas métricas no jogo e atualmente 4 delas podem formar nosso <strong>Indice de Mérito</strong>.
 
 <ol> 
-  <li> Quantidade de Cartas Coletadas em cada Guerra</li>
-  <li> Quantidade de doações </li>
   <li> Quantidade de vitórias em Guerras </li>
+  <li> Quantidade de Cartas Coletadas em cada Guerra </li>
+  <li> Quantidade de doações </li>
+  <li> Quantidade de batalhas de treino antes da guerra</li>
 </ol> 
 
 Acompanhamos diariamente os valores de cada uma destas 3 métricas para todos os jogadores do Clan e elas geram os 3 índices de desempenho que explico a seguir. 
@@ -61,16 +62,19 @@ Durante a temporada, os pontos ganhos ou perdidos nas vitórias e derrotas são 
 ##### Importante:
 Caso um jogador não faça a batalha final da guerra (chamamos de W.O.) ele perde <strong><u>3 pontos</u></strong> e não apenas 1. Desta forma é muito importante que ao entrar em uma guerra o jogador faça todas as batalhas (coleta e final) ajudando o clan a ter um melhor desempenho. Os jogadores que não fazem todas as batalhas perdem os pontos nos índices, prejudicam o Clan e por isso podem ser removidos (kick). <br>
 
-### 4) Índice de Mérito
+### 4) Treinos para Batalha Final
+Em nossas estatísticas percebemos que os jogadores que treinam antes da batalha final tem melhor % de vitórias nas guerras. Alem disso eles ajudam outros jogadores e, consequentemente, estão ajudando o Clan. Os treinos são muito importantes para que a pessoa possa encontrar eventuais deficiências no deck de guerra e então fazer os ajustes necessários para obter a vitória. Acompanhamos a quantidade e a qualidade dos treinos de todos os membros. Entendemos perfeitamente que <em>perder faz parte do jogo</em>, mas os jogadores que <strong>não treinam</strong> e depois perdem suas batalhas não são bem vistos no Clan. Na página que fala sobre as <a href="{{ site.url }}{{ site.baseurl }}/regras/guerra_de_clans" target="_blank">guerras de clans</a> sugerimos que cada membro faça no mínimo 3 partidas de treino antes da batalha final.<br>
 
-É a média dos 3 índices explicados acima. <br>
+### 5) Índice de Mérito
 
-Por exemplo:<br>
-<em>Se o jogador teve nota 8 no Índice de Coleta, 7 no Índice de Doações e , 10 no Índice de Vitórias em Guerra o Índice de Mérito dele vai ser ( 8 + 7 + 10) / 3 = 8,33.</em><br>
+É calculado da seguinte forma: <br>
+
+> <span class="teaser"> Guerra + Coleta + (Doações ou Treinos) / 3</span><cite>Descartamos o menor número entre o Índice de Doações e o Índice de Treinos.</cite>
+
+<strong>Exemplo:</strong><br>
+Se o jogador teve nota 10 no Índice de Vitórias em Guerra, 8 no Índice de Coleta, 6 no Índice de Doações e 7 no Índice de Treinos, o Índice de Mérito dele vai ser ( 8 + 7 + 10) / 3 = 8,33 (descartamenos a nota 6 [pois é a menor nota entre o Índice de Doações e o Índice de Treinos).<br><br> 
+<strong>Importante:</strong><br> 
+As notas relativas ao índice de guerra e o índice de coleta nunca são descartadas, mesmo que sejam as menores.
 
 Os jogadores com os maiores índices de mérito são aqueles que receberão <strong>promoções e patentes</strong> no final da temporada. <br><br>
 Se você quiser entender o que precisa fazer para receber uma patente e se tornar um ancião <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">leia aqui neste outro post</a>.
-
-
-
-
