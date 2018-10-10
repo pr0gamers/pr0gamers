@@ -27,15 +27,17 @@ comments: true
 
 ## Veja ai embaixo o nosso "resuminho"!
 
-São apenas 4 coisas e é bem fácil e rápido, basta acessar os links da lista que colocamos ai em baixo.Se você tiver alguma dúvida, pode mandar uma mensagem pelo nosso <a href="{{ site.url }}{{ site.baseurl }}/contato" target="_blank">contato</a> ou chamar algum ancião/colider no nosso grupo do WhatsApp.
+São apenas algumas coisas e é bem fácil e rápido, basta acessar os links da lista que colocamos ai em baixo.Se você tiver alguma dúvida, pode mandar uma mensagem pelo nosso <a href="{{ site.url }}{{ site.baseurl }}/contato" target="_blank">contato</a> ou chamar algum ancião/colider no nosso grupo do WhatsApp.
 <br>
 
 <ol>
   
-  <li>Como funciona o Grupo no <a href="{{ site.url }}{{ site.baseurl }}/regras/grupo_no_whatsapp" target="_blank">WhatsApp</a></li>
+  <li>Como funciona o Grupo no <a href="{{ site.url }}{{ site.baseurl }}/regras/grupo_no_whatsapp" target="_blank">WhatsApp?</a></li>
   <li>A avaliação do <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank">desempenho dos membros?</a></li>
-  <li>O que você deve fazer para se tornar <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">Ancião</a></li>
+  <li>O que você deve fazer para se tornar <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">Ancião?</a></li>
   <li>Tem vontade de ser um <a href="{{ site.url }}{{ site.baseurl }}/regras/colider" target="_blank">Colider?</a></li>
+  <li>Como funcionam as <a href="{{ site.url }}{{ site.baseurl }}/regras/trocas" target="_blank">trocas de cartas?</a> </li>
+  <li>Saiba sobre a importancia que damos para as <a href="{{ site.url }}{{ site.baseurl }}/regras/guerra_de_clans" target="_blank">Guerras de Clans!</a></li>
 
 </ol>
 
