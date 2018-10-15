@@ -48,7 +48,7 @@ comments: true
   <li>Cartas normais: Nivel 12</li>
   <li>Cartas raras: Nivel 12</li>
   <li>Cartas épicas: Nivel 11</li>
-  <li>Cartas Lendárias: Nivel 10/11</li>
+  <li>Cartas Lendárias: Nivel 10</li>
 </ul>
 <ul></ul>
 
