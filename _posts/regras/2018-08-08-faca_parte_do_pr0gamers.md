@@ -39,7 +39,7 @@ comments: true
 ##### Conquitas:
 <ul>
   <li>Mais de 4.300 troféus</li>
-  <li>Mais de 25 vitórias em Guerras de Clan</li>
+  <li>Mais de 35 vitórias em Guerras de Clan</li>
   <li>Mais de 30.000 doações</li>
   <li>Mínimo de 10 vitorias em desafio</li>
 </ul>
