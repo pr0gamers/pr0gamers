@@ -42,6 +42,7 @@ Desta forma, existem coisa que <strong>podem</strong> e coisas que <strong>não 
 <li>Pornografia</li>
 <li>Correntes de nenhum tipo</li>
 <li>Brigar ou desrespeitar alguem</li>
+<li>"Inundar" o grupo com Stikers ou Emoticons</li>
 <li>Imagens, videos, ou até conversas que não estejam relacionadas ao Clahs Royale</li>
 </ol>
 <ul></ul>

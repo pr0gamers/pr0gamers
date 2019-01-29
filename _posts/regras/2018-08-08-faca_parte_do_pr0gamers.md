@@ -40,8 +40,8 @@ comments: true
 <ul>
   <li>Torre do Rei no nível 12/13</li>
   <li>Mais de 4.300 troféus</li>
-  <li>Mais de 35 vitórias em Guerras de Clan</li>
-  <li>Mais de 30.000 doações</li>
+  <li>Mais de 50 vitórias em Guerras de Clan</li>
+  <li>Mais de 35.000 doações</li>
   <li>Mínimo de 10 vitorias em desafio</li>
 </ul>
 ##### Seu deck principal precisa ter:
