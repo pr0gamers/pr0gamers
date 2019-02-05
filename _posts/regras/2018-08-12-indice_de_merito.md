@@ -65,17 +65,20 @@ Caso um jogador não faça a batalha final da guerra (chamamos de W.O.) ele perd
 ### 4) Treinos para Batalha Final
 Em nossas estatísticas percebemos que os jogadores que treinam antes da batalha final tem melhor % de vitórias nas guerras. Alem disso eles ajudam outros jogadores e, consequentemente, estão ajudando o Clan. Os treinos são muito importantes para que a pessoa possa encontrar eventuais deficiências no deck de guerra e então fazer os ajustes necessários para obter a vitória. Acompanhamos a quantidade e a qualidade dos treinos de todos os membros. Entendemos perfeitamente que <em>perder faz parte do jogo</em>, mas os jogadores que <strong>não treinam</strong> e depois perdem suas batalhas não são bem vistos no Clan. Na página que fala sobre as <a href="{{ site.url }}{{ site.baseurl }}/regras/guerra_de_clans" target="_blank">guerras de clans</a> sugerimos que cada membro faça no mínimo 3 partidas de treino antes da batalha final.<br>
 
-### 5) Índice de Mérito
+### 5) Quantidade de Guerras Jogadas
+Os jogadores que jogam mais guerras durante a temporada recebem uns pontinhos extras com estes indice. A idéia é incentivar todos no Clan a jogar o maior numero de guerras possível. Quem joga mais ganha mais pontos. E quem não joga muito, ganha pouco. 
+
+### 6) Índice de Mérito
 
 É calculado da seguinte forma: <br>
 
-> <span class="teaser"> Guerra + Coleta + (Doações ou Treinos) / 3</span><cite>Descartamos o menor número entre o Índice de Doações e o Índice de Treinos.</cite>
+> <span class="teaser"> Guerra + Coleta + Qtd Guerras + (Doações ou Treinos) / 4</span><cite>Descartamos o menor número entre o Índice de Doações e o Índice de Treinos.</cite>
 
 <strong>Exemplo:</strong><br>
-Se o jogador teve nota 10 no Índice de Vitórias em Guerra, 8 no Índice de Coleta, 6 no Índice de Doações e 7 no Índice de Treinos, o Índice de Mérito dele vai ser ( 8 + 7 + 10) / 3 = 8,33 (descartamenos a nota 6 [pois é a menor nota entre o Índice de Doações e o Índice de Treinos).<br><br> 
+Se o jogador teve nota 10 no Índice de Vitórias em Guerra, 8 no Índice de Coleta, 9 no Índice de Quantidaed de Guerras, 6 no Índice de Doações e 7 no Índice de Treinos  o Índice de Mérito dele vai ser ( 10 + 8 + 9 + 7) / 4 = 8,5 (descartamenos a nota 6 [pois é a menor nota entre o Índice de Doações e o Índice de Treinos).<br><br> 
 
 <strong>Importante:</strong><br> 
-As notas relativas ao índice de guerra e o índice de coleta nunca são descartadas, mesmo que sejam as menores.
+As notas relativas ao índice de guerra, índice de coleta e índice de qtd de guerras nunca são descartadas, mesmo que sejam as menores.
 
 Os jogadores com os maiores índices de mérito são aqueles que receberão <strong>promoções e patentes</strong> no final da temporada. <br><br>
 Se você quiser entender o que precisa fazer para receber uma patente e se tornar um ancião <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">leia aqui neste outro post</a>.
