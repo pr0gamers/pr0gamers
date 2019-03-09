@@ -28,13 +28,13 @@ comments: true
 
 ## Mérito
 
-Existem muitas métricas no jogo e atualmente 4 delas podem formar nosso <strong>Indice de Mérito</strong>.
+Existem muitas métricas no jogo e atualmente 4 delas podem formar nosso Indice de Mérito.
 
 <ol> 
-  <li> Quantidade de vitórias em Guerras </li>
-  <li> Quantidade de Cartas Coletadas em cada Guerra </li>
-  <li> Quantidade de doações </li>
-  <li> Quantidade de batalhas de treino antes da guerra</li>
+  <li> Quantidade de <strong>vitórias</strong> em guerras.</li>
+  <li> Quantidade de <strong>cartas coletadas</strong> em cada guerra.</li>
+  <li> Quantidade de <strong>doações</strong>.</li>
+  <li> Quantidade de <strong>batalhas de treino</strong> antes da guerra.</li>
 </ol> 
 
 Acompanhamos diariamente os valores de cada uma destas métricas para todos os jogadores do Clan e elas geram os índices de desempenho que explico a seguir. 

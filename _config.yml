@@ -46,7 +46,7 @@ urlimg: 'https://pr0gamers.github.io/pr0gamers/images/'
 # logo: "logo.png"
 
 # Gems
-gems:
+pluins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
