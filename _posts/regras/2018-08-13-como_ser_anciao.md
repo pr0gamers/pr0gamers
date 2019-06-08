@@ -34,7 +34,8 @@ No último dia da temporada, os 15 jogadores com melhor <a href="{{ site.url }}{
 
 <ul>
   <li>Precisa querer (critério mais importante).</li>
-  <li>Jogou mais de 5 guerras na temporada.</li>
+  <li>Jogou mais de 50% das guerras na temporada.</li>
+  <li>Teve mais de 50% de vitórias nas guerras</li> 
   <li>Esta a mais de 1 mês no clan.</li>
   <li>Tem índice de mérito maior do que 4.</li>
   <li>Faz parte do grupo do WhatsApp</li>

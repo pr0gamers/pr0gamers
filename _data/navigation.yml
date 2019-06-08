@@ -24,6 +24,8 @@
     url: "/regras/guerra_de_clans"
   - title: "Troca de Cartas"
     url: "/regras/Trocas/"
+  - title: "Kicks ou Expulsão"
+    url: "/regras/kicks/"
   #- title: "Video"
   #  url: "/design/video/"
   #- title: "Gallery"
