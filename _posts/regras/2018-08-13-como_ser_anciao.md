@@ -28,7 +28,9 @@ comments: true
 
 ### Ancião
 
-As patentes de ancião são distribuiídas na primeira segunda feira dos <u>meses ímpares</u> do ano (Janeiro, Março, Maio, Julho, Setembro e Novembro). Desta forma, o ciclo para troca (ou manutenção) das patentes é sempre de 2 meses, por exemplo: Quem foi promovido em Janeiro fica com a patente até Março (mês impar após Janeiro). Dito isso, pelo amor de Deus não apareça no Clan pedindo para ser promovido.<br> 
+As patentes de ancião são distribuiídas na primeira segunda feira dos <u>meses ímpares</u> do ano ou seja: Janeiro, Março, Maio, Julho, Setembro e Novembro. 
+
+Desta forma, o ciclo para troca (ou manutenção) das patentes é de 2 meses. Quem foi promovido em Janeiro (por exemplo) fica com a patente até Março quando faremos a nova avaliação.
 
 Considerando os 2 meses de avaliação, os 15 jogadores com melhor <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito/" target="_blank">índice de mérito</a> recebem a patente de <strong>Ancião</strong> se atenderem aos seguintes critérios:
 
@@ -41,6 +43,8 @@ Considerando os 2 meses de avaliação, os 15 jogadores com melhor <a href="{{ s
   <li>Tem índice de mérito maior do que 4.</li>
   <li>Faz parte do grupo do WhatsApp</li>
 </ul>
+
+Dito isso, pelo amor de Deus não apareça no Clan pedindo para ser promovido.<br> 
 
 ### Responsabilidades dos Anciões
 <em> Como diria o tio do Peter Parker: "Com grandes poderes você também recebe grandes responsabilidades"</em>
