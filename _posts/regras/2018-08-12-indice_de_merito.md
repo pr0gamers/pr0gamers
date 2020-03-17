@@ -39,8 +39,8 @@ Consideramos o seguinte:
 </ol> 
 
 Obs:<br>
-W.O. de coleta = O jogador entrou para a guerra e não completou as 3 batalhas da coleta<br>
-W.O de batalha final = O jogado não jogou a batalha final.<br>
+<em>W.O. de coleta = O jogador entrou para a guerra e não completou as 3 batalhas da coleta.</em><br>
+<em>W.O de batalha final = O jogado não jogou a batalha final.</em><br>
 
 Montamos um banco de dados com os valores das métricas acima e elas geram os índices de desempenho que explico a seguir. 
 
