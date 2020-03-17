@@ -34,12 +34,13 @@ Consideramos o seguinte:
 <ol> 
   <li> Quantidade de <strong>Vitórias</strong> em guerras.</li>
   <li> Quantidade de <strong>Cartas Coletadas</strong> em cada guerra.</li>
-  <li> Quantidade de <strong>W.O. na Batalha Finai</strong>.</li>
-  <li> Quantidade de <strong>W.O. de Coleta</strong>.</li>
+  <li> Quantidade de <strong>W.O.</strong> nas Batalhas Finais.</li>
+  <li> Quantidade de <strong>W.O.</strong> nas Coleta.</li>
 </ol> 
 
 Obs:<br>
-W.O. = O jogador entrou para a Guerra e não jogou alguma batalha de coleta ou a batalha final.
+W.O. de coleta = O jogador entrou para a guerra e não completou as 3 batalhas da coleta<br>
+W.O de batalha final = O jogado não jogou a batalha final.<br>
 
 Montamos um banco de dados com os valores das métricas acima e elas geram os índices de desempenho que explico a seguir. 
 
