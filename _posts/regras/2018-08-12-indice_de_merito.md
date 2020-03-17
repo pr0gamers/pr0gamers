@@ -28,24 +28,25 @@ comments: true
 
 ## Mérito
 
-Nosso Indice de Mérito é formado pelas estatísticas de guerra de cada membro. Consideramos o seguinte:
+Nosso Indice de Mérito é formado pelas estatísticas de guerra de cada membro.<br>
+Consideramos o seguinte:
 
 <ol> 
-  <li> Quantidade de <strong>vitórias</strong> em guerras.</li>
-  <li> Quantidade de <strong>cartas coletadas</strong> em cada guerra.</li>
+  <li> Quantidade de <strong>Vitórias</strong> em guerras.</li>
+  <li> Quantidade de <strong>Cartas Coletadas</strong> em cada guerra.</li>
   <li> Quantidade de <strong>W.O. na Batalha Finai</strong>.</li>
   <li> Quantidade de <strong>W.O. de Coleta</strong>.</li>
 </ol> 
 
-Obs:
-WOs = O jogador entrou para a Guerra e não jogou alguma batalha de coleta ou a batalha final.
+Obs:<br>
+W.O. = O jogador entrou para a Guerra e não jogou alguma batalha de coleta ou a batalha final.
 
 Montamos um banco de dados com os valores das métricas acima e elas geram os índices de desempenho que explico a seguir. 
 
 ### 1) Índice de Coleta
 Dentro da temporada, o jogador que consegue coletar o maior numero de cartas nas batalhas de coleta recebe a nota 10. As demais notas são distribuídas para todos os jogadores de forma comparativa e proporcional. <br>
 
-Por exemplo: <br>
+<strong>Exemplo:</strong> <br>
 <em>Suponha que Jogador 1 foi o que mais coletou cartas em batalhas de coleta com um total de 100 cartas (o numero não importa, estou apenas tentando explicar a lógica).</em> <br> 
 
 Se ele foi o jogador com a maior quantidade de cartas coletadas na temporada, ele vai receber <em>a nota 10 </em>. Se um outro jogador (jogador 2) coletou 80 cartas, ele vai receber uma nota proporcional <em>nota 8</em> e um terceiro jogador (jogador 3) que coletou 70 cartas, recebe a <em>nota 7</em>. <br>
@@ -53,13 +54,13 @@ Se ele foi o jogador com a maior quantidade de cartas coletadas na temporada, el
 Desta forma, todos recebem uma nota variando entre 0 a 10 para a métrica <em>Cartas Coletadas</em>.<br>
 
 ##### Importante:
-Caso um jogador não faça uma das 3 batalhas de coleta (chamamos de W.O. de Coleta) ele <strong><u>perde pontos</u></strong> no indice de coleta. 
+Caso um jogador não faça alguma das 3 batalhas de coleta na guerra que ele esta participando (chamamos de W.O. de Coleta) ele <strong><u>perde pontos</u></strong> no indice de coleta. 
 
-Outro exemplo: <br>
-<em>"Joãozinho" jogou 5 guerras e deveria ter feito 15 batalhas de coleta, mas ele só jogou 12 (fez 3 W.Os de coleta). Joãozinho só jogou 80% das batalhas (12 / 15 = 80%).</em><br> 
-A punição por não ter jogado todas as coletas é que o número de cartas coletadas por ele vai ser reduzido para 80% do valor total (redução de 20%) o que por sua vez vai reduzir o índice de coleta dele.
+<strong>Exemplo</strong>: <br>
+<em>Joãozinho jogou 5 guerras e deveria ter feito 15 batalhas de coleta, mas ele só jogou 12 (fez 3 W.Os). Joãozinho só jogou 80% das batalhas (12 / 15 = 80%).</em><br> 
+A punição por não ter jogado todas as coletas é que o número de cartas coletadas por ele vai ser reduzido para 80% do valor total (redução de 20%) o que por sua vez vai reduzir o valor do índice de coleta dele.
 
-Por isso, é muito importante que ao entrar em uma guerra o jogador faça todas as batalhas da coleta e a batalha final.<br> 
+Exatamente por isso, é muito importante que ao entrar em uma guerra o jogador faça todas as batalhas da coleta, nossa recomendação é que jogue as 3 batalhas da coleta <strong>de uma só vez</strong>, não deixe para jogar mais tarde (voê vai esquecer).<br> 
 Aqueles que regularmente não fazem as 3 coletas perdem pontos nos índices, prejudicam o Clan e podem vir a ser removidos. <br>
 
 ### 2) Índice de Vitórias em Guerra
@@ -77,7 +78,7 @@ Os jogadores que jogam mais guerras durante a temporada recebem uns pontinhos ex
 
 É calculado da seguinte forma: <br>
 
-> <span class="teaser"> Guerra + Coleta + Qtd Guerras / 3</span>
+> <span class="teaser">      Guerra + Coleta + Qtd Guerras / 3</span>
 
 <strong>Exemplo:</strong><br>
 Se o jogador teve nota 10 no Índice de Vitórias em Guerra, 8 no Índice de Coleta, 9 no Índice de Quantidaed de Guerras o Índice de Mérito dele vai ser ( 10 + 8 + 9 ) / 3 = 9.<br> 
