@@ -57,9 +57,9 @@ comments: true
 <p>Se você ganhar o prêmio, só pode ganhar outro 6 meses depois. Por exemplo:</p>
 <p>Você ganhou o prêmio em Março, então só pode ganhar novamente Setembro. Caso você fique novamente em primeiro lugar em Maio ou em Julho, o segundo colocado ganha o prêmio. Se ele (segundo colocado) tb já tiver ganho a menos de 6 meses, o terceiro colocado recebe o prêmio.</p>
 
-<p>Nosso objetivo e dar a chance para várias pessoas ganharem e não apenas os frenéticos que ficam constantemente em primeiro/segundo lugar no ranking.</p>
+<p>Nosso objetivo é que o maior número de jogadores possa ganhar o prêmio,esperamos que gostem do incentivo!</p>
 
-<p>Esperamos que gostem do incentivo! Bom Jogo e Boa Sorte nas batalhas!</p>
+<p>Bom Jogo e Boa Sorte nas batalhas!</p>
 
 Se você ainda não faz parte do Pr0GamErs e se identificou com a nossa <q>filosofia de jogo</q>, veja neste link <a href="{{ site.url }}{{ site.baseurl }}/regras/faca_parte_do_pr0gamers" target="_blank">como fazer parte</a> do nosso clan. Vem batalhar conosco!
 
