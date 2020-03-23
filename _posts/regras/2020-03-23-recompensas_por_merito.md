@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Vc trabalhou duro pelo Clan nas últimas temporadas?"
 title: "Recompensa por Mérito"
-teaser: "No Pr0GamErs avaliamos todos os jogadores e temos recompensas para quem ajuda o clan a crescer"
+teaser: "No Pr0GamErs avaliamos todos os jogadores e temos recompensa para quem ajuda o clan a crescer."
 categories:
   - regras
 tags:
@@ -29,14 +29,10 @@ comments: true
 
 ---
 
-
-<cite>Mérito: Sustantivo masculino que significa "<em>Merecimento</em>"</cite>
-
-
 <p> Você se esforçou, batalhou, coletou, não fez WOs, se irritou e algumas vezes quase quebrou o telefone? Muito bem!!!</p>
-<p> Se ao chegar o final da temporada você persistiu e conseguiu ficar em primeiro lugar no nosso <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank"><em>indice de mérito</em></a>, você MERECE uma recompensa!</p>
+<p> No final da temporada se você persistiu e conseguiu ficar em <strong>primeiro lugar</strong> no nosso <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank"><em>indice de mérito</em></a>, você MERECE uma recompensa!</p>
 
-<cite>O primeiro lugar do ranking de mérito ganha um GIFT CARD no valor do Pass Royale</cite>
+<span class="teaser">   O primeiro lugar do ranking de mérito ganha um GIFT CARD no valor do Pass Royale </span>
 
 
 ### Regras para ganhar
