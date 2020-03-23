@@ -32,7 +32,7 @@ comments: true
 <p> Você se esforçou, batalhou, coletou, não fez WOs, se irritou e algumas vezes quase quebrou o telefone? Muito bem!!!</p>
 <p> No final da temporada se você persistiu e conseguiu ficar em <strong>primeiro lugar</strong> no nosso <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank"><em>indice de mérito</em></a>, você MERECE uma recompensa!</p>
 
-<span class="teaser">   O primeiro lugar do ranking de mérito ganha um GIFT CARD no valor do Pass Royale </span>
+<span class="teaser">" O primeiro lugar do ranking de mérito ganha um GIFT CARD no valor do Pass Royale "</span>
 
 
 ### Regras para ganhar
