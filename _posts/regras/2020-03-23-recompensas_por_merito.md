@@ -53,7 +53,7 @@ comments: true
 
 ### 1 vez por semestre
 
-#####Importante:
+##### Importante:
 <p>Se você ganhar o prêmio, só pode ganhar outro 6 meses depois. Por exemplo:</p>
 <p>Você ganhou o prêmio em Março, então só pode ganhar novamente Setembro. Caso você fique novamente em primeiro lugar em Maio ou em Julho, o segundo colocado ganha o prêmio. Se ele (segundo colocado) tb já tiver ganho a menos de 6 meses, o terceiro colocado recebe o prêmio.</p>
 
