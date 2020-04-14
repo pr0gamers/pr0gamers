@@ -34,6 +34,7 @@ São apenas algumas coisas e é bem fácil e rápido, basta acessar os links da 
   
   <li>Como funciona o Grupo no <a href="{{ site.url }}{{ site.baseurl }}/regras/grupo_no_whatsapp" target="_blank">WhatsApp?</a></li>
   <li>A avaliação do <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank">desempenho dos membros?</a></li>
+  <li>Recompensa:Você pode receber um <a href="{{ site.url }}{{ site.baseurl }}/regras/recompensas_por_merito" target="_blank">prêmio</a> dependendo do seu resultado no índice de mérito.</li>
   <li>O que você deve fazer para se tornar <a href="{{ site.url }}{{ site.baseurl }}/regras/como_ser_anciao" target="_blank">Ancião?</a></li>
   <li>Tem vontade de ser um <a href="{{ site.url }}{{ site.baseurl }}/regras/colider" target="_blank">Colider?</a></li>
   <li>Como funcionam as <a href="{{ site.url }}{{ site.baseurl }}/regras/Trocas" target="_blank">trocas de cartas?</a> </li>

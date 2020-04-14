@@ -34,6 +34,7 @@ Consideramos o seguinte:
 <ol> 
   <li> Quantidade de <strong>Vitórias</strong> em guerras.</li>
   <li> Quantidade de <strong>Cartas Coletadas</strong> em cada guerra.</li>
+  <li>Quantidade de <strong>guerras que você joga</strong> durante a nossa temporada.</li>
   <li> Quantidade de <strong>W.O.</strong> nas Batalhas Finais.</li>
   <li> Quantidade de <strong>W.O.</strong> nas Coleta.</li>
 </ol> 
@@ -75,7 +76,7 @@ Caso um jogador não faça a batalha final da guerra (chamamos de W.O.) ele perd
 ### 3) Quantidade de Guerras Jogadas
 Os jogadores que jogam mais guerras durante a temporada recebem uns pontinhos extras com estes indice. A idéia é incentivar todos no Clan a jogar o maior numero de guerras possível. Quem joga mais ganha mais pontos. E quem não joga muito, ganha pouco. 
 
-### 6) Índice de Mérito
+### 4) Índice de Mérito
 
 É calculado da seguinte forma: <br>
 
