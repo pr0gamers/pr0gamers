@@ -21,12 +21,11 @@ callforaction:
 * Temos grupo no whatsapp e <u><strong>NÃO É</strong></u> permitido ficar falando "abobrinhas".
 * Temos página no <a href="http://facebook.com.br/pr0gamers" target="_blank"> FaceBook </a>.
 * Estamos bem organizados, a liderança acompanha as estatísticas de todos os jogadores.
-* Toda segunda-feira, enviamos um relatório de desempenho.
-* As promoções seguem uma <a href="{{ site.url }}{{ site.baseurl }}/regras/">regra</a> e acontecem no primeiro dia de cada temporada.
+* Temos um relatório online com o desempenho de cada jogador do Clan (todos os membros podem ver).
+* As promoções seguem uma <a href="{{ site.url }}{{ site.baseurl }}/regras/">regra</a> e acontecem no primeiro dia de cada temporada dos meses ímpares.
 * "kicks" somente por abandono do jogo ou mal desempenho/comportamento <a href="{{ site.url }}{{ site.baseurl }}/regras/"> vide regras</a>.
-* Jogamos muitas batalhas de treino todos os dias, seguidas de dicas e sugestões.
+* Jogamos batalhas de treino antes das guerras, seguidas de dicas e sugestões.
 * Amigos dos membros são muito bem vindos!
-
 
 ## Objetivo e Filosofia
 

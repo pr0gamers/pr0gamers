@@ -9,7 +9,7 @@
 * Jogamos muito sério, mas não somos fanáticos.
 * O pessoal é muito receptivo e unido, jogamos juntos há anos.
 * Temos grupo no whatsapp e <u><strong>NÃO É</strong></u> permitido ficar falando "abobrinhas".
-* Temos página no <a href="http://facebook.com.br/pr0gamers"> FaceBook </a>.
+* Temos página no <a href="http://facebook.com.br/pr0gamers" target="_blank"> FaceBook </a>.
 * Estamos bem organizados, a liderança acompanha as estatísticas de todos os jogadores.
 * Temos um relatório online com o desempenho de cada jogador do Clan (todos os membros podem ver).
 * As promoções seguem uma <a href="https://pr0gamers.github.io/pr0gamers/regras/">regra</a> e acontecem no primeiro dia de cada temporada dos meses ímpares.
