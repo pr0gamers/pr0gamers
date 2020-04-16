@@ -1,6 +1,6 @@
 
 ##### Venha Batalhar Conosco
-<h1>Somo do Clan Pr0GamErs (#CL9Y0U) no Clash Royale</h1>
+<h1>Somos do Clan Pr0GamErs (#CL9Y0U) no Clash Royale</h1>
 <h4>Focados em Guerras de Clan e no Desenvolvimento dos Jogadores.</h4>
 
 
