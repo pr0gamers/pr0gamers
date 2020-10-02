@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "Saiba como conseguir seus pontos?"
+subheadline: "Qual o seu?"
 title: "Índice de Mérito"
 teaser: "Não adianta pedir, você só vai ser promovido por mérito. Neste post vamos explicar como funcionam as avaliações dos jogadores dentro do Pr0Gamers. Você precisa entender nosso índice de mérito!"
 categories:
