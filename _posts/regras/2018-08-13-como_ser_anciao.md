@@ -39,7 +39,7 @@ Os 15 jogadores com melhor <a href="{{ site.url }}{{ site.baseurl }}/regras/indi
   <li>Fazer parte do grupo do WhatsApp</li>
 </ul>
 
-Os jogadores que já forem anciões mas que não estiverem entre os 15 melhores ao final do cilco de avaliação, perdem a patente (mas podem recuperar se voltarem a ficar entre os 15 melhores).<br> Dito isso, pelo amor de Deus não apareça no Clan pedindo para ser promovido.<br> 
+Os jogadores que já forem anciões mas que não estiverem entre os 15 melhores ao final do cilco de avaliação, perdem a patente (mas podem recuperar se voltarem a ficar entre os 15 melhores).<br> <br>Dito isso, pelo amor de Deus não apareça no Clan pedindo para ser promovido.<br> 
 
 
 ### Responsabilidades dos Anciões
