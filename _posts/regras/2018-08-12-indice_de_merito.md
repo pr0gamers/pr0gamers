@@ -51,9 +51,9 @@ Montamos um banco de dados com os valores das métricas acima e vamos somando os
   <li>Procure fazer as batalhas das regatas todos os dias, mesmo se a regata já tiver acabado.</li><br>
   <em>Fazendo isso vc acumula pontos e ajuda o ranking do clã.</em>
   <li>Se o barco quebrar, participe do conserto jogando as batalhas normais.</li><br>
-  <em><strong>Não use o estaleiro</strong> pois ele da poucos pontos comparado com as batalhas.</em>
+  <em><strong>Não use o estaleiro</strong> pois ele dá poucos pontos comparado com as batalhas.</em>
   <li>Não ataque outro barco a menos que algum Colider faça uma solicitação no grupo.</li><br>
-  <em>Atacar o barco inimigo não da muitos pontos.</em>
+  <em>Atacar o barco inimigo não dá muitos pontos.</em>
 </ul>
 
 Os jogadores com os maiores índices de mérito são aqueles que receberão <strong>promoções e patentes</strong> no final das 5 regatas. <br><br>

@@ -28,18 +28,18 @@ comments: true
 
 ### Ancião
 
-As patentes de ancião são distribuiídas na primeira segunda feira após o término da 5 semana de regata nas Guerras de Clans. Desta forma, o ciclo para troca (ou manutenção) das patentes é de 5 semanas e quem for promovido, fica com a patente até o fim do próximo cilco (quando faremos a nova avaliação).
+As patentes de ancião são distribuiídas na primeira segunda feira após o término da 5 semana de regata nas Guerras de Clans.<br>
+Desta forma, o ciclo para troca (ou manutenção) das patentes é de 5 semanas. Quem for promovido, fica com a patente até o início do próximo cilco (quando faremos a nova avaliação).
 
-Os 15 jogadores com melhor <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito/" target="_blank">índice de mérito</a> (exluindo líder e colideres) recebem a patente de <strong>Ancião</strong> se atenderem aos seguintes critérios:
+Os 15 jogadores com melhor <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito/" target="_blank">índice de mérito</a> (excluindo líder e colideres) recebem a patente de <strong>Ancião</strong> se atenderem aos seguintes critérios:
 
 <ul>
   <li>Precisa querer (critério mais importante).</li>
-  <li>Esta a mais de 1 mêses no clan.</li>
-  <li>Faz parte do grupo do WhatsApp</li>
+  <li>Estar a mais de 1 mêses no clan.</li>
+  <li>Fazer parte do grupo do WhatsApp</li>
 </ul>
 
-Os jogadores que já forem anciões mas que não estiverem entre os 15 melhores ao final do cilco de avaliação, perdem a patente (mas podem recuperar se voltarem a ficar entre os 15 melhores).
-Dito isso, pelo amor de Deus não apareça no Clan pedindo para ser promovido.<br> 
+Os jogadores que já forem anciões mas que não estiverem entre os 15 melhores ao final do cilco de avaliação, perdem a patente (mas podem recuperar se voltarem a ficar entre os 15 melhores).<br> Dito isso, pelo amor de Deus não apareça no Clan pedindo para ser promovido.<br> 
 
 
 ### Responsabilidades dos Anciões
