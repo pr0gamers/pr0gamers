@@ -46,10 +46,10 @@ Montamos um banco de dados com os valores das métricas acima e vamos somando os
 ### Pontos Importantes Para Acumular Fama/Pontos nas 5 Regatas:
 <br>
 <ul>
-  <li>Jogue todas as regatas!<um>Quem não joga, deixa de pontuar no mérito e perde os prêmios da regata.</um></li> 
-  <li>Procure fazer as batalhas das regatas todos os dias, mesmo se a regata já tiver acabado. Fazendo isso vc acumula pontos e ajuda o ranking do clã. </li>
-  <li>Se o barco quebrar, participe do conserto jogando as batalhas normais.</li><br><strong>Não use o estaleiro</strong> pois ele da poucos pontos comparado com as batalhas.
-  <li>Não ataque outro barco a menos que algum Colider faça uma solicitação no grupo.Atacar o barco inimigo geram poucos pontos.</li>
+  <li>Jogue todas as regatas!</li><br>Quem não joga, deixa de pontuar no mérito e perde os prêmios da regata.<br>
+  <li>Procure fazer as batalhas das regatas todos os dias, mesmo se a regata já tiver acabado.</li><br>Fazendo isso vc acumula pontos e ajuda o ranking do clã.<br>
+  <li>Se o barco quebrar, participe do conserto jogando as batalhas normais.</li><br><strong>Não use o estaleiro</strong> pois ele da poucos pontos comparado com as batalhas.<br>
+  <li>Não ataque outro barco a menos que algum Colider faça uma solicitação no grupo.</li><br>Atacar o barco inimigo geram poucos pontos.
 </ul>
 
 Os jogadores com os maiores índices de mérito são aqueles que receberão <strong>promoções e patentes</strong> no final das 5 regatas. <br><br>
