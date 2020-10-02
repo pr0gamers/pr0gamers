@@ -41,15 +41,15 @@ Montamos um banco de dados com os valores das métricas acima e vamos somando os
 
 É calculado da seguinte forma: <br>
 
-> <span class="teaser">      Fama + Conseerto = Mérito</span>
+> <span align="center" class="teaser">Fama + Conserto = Mérito</span>
 
 ### Pontos Importantes Para Acumular Fama/Pontos nas 5 Regatas:
-
+<br>
 <ul>
-  <li>Jogue todas as regatas!</li> Quem não joga, deixa de pontuar no mérito e perde os prêmios da regata.
-  <li>Procure fazer as batalhas das regatas todos os dias, mesmo se a regata já tiver acabado</li> Fazendo isso vc acumula pontos e ajuda o ranking do clã.
-  <li>Se o barco quebrar, participe do conserto jogando as batalhas normais.<strong></li> Não use o estaleiro</strong> pois ele da poucos pontos comparado com as batalhas.
-  <li>Não ataque outro barco a menos que algum Colider faça uma solicitação no grupo.</li>Atacar o barco inimigo geram poucos pontos.
+  <li>Jogue todas as regatas!<um>Quem não joga, deixa de pontuar no mérito e perde os prêmios da regata.</um></li> 
+  <li>Procure fazer as batalhas das regatas todos os dias, mesmo se a regata já tiver acabado. Fazendo isso vc acumula pontos e ajuda o ranking do clã. </li>
+  <li>Se o barco quebrar, participe do conserto jogando as batalhas normais.<strong>Não use o estaleiro</strong> pois ele da poucos pontos comparado com as batalhas.</li>
+  <li>Não ataque outro barco a menos que algum Colider faça uma solicitação no grupo.Atacar o barco inimigo geram poucos pontos.</li>
 </ul>
 
 Os jogadores com os maiores índices de mérito são aqueles que receberão <strong>promoções e patentes</strong> no final das 5 regatas. <br><br>
