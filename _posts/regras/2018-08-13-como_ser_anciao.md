@@ -28,7 +28,7 @@ comments: true
 
 ### Ancião
 
-As patentes de ancião são distribuiídas na primeira segunda feira após o término da 5 semana de regata nas Guerras de Clans.<br>
+As patentes de ancião são distribuiídas na primeira segunda feira após o término da 5 semana de regata nas Guerras de Clans.<br><br>
 Desta forma, o ciclo para troca (ou manutenção) das patentes é de 5 semanas. Quem for promovido, fica com a patente até o início do próximo cilco (quando faremos a nova avaliação).
 
 Os 15 jogadores com melhor <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito/" target="_blank">índice de mérito</a> (excluindo líder e colideres) recebem a patente de <strong>Ancião</strong> se atenderem aos seguintes critérios:
