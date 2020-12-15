@@ -50,7 +50,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   <li>Participar das regatas de guerra é obrigatório</li>
   <li>Na segunda feira o jogador precisa fazer os ataques com os 4 Decks de Batalha!</li>
   <li>Na terça feira, o jogador precisa fazer seus 4 ataques <strong>o mais cedo possível</strong></li>.
-  <li>O jogador pracisa fazer um <strong>mínimo de 700 pontos</strong> antes que um barco cruze a linha de chegada!</li>
+  <li>O jogador pracisa fazer um <strong>mínimo de 700 pontos</strong> antes que um barco cruze a linha</li>
   <li>Não ataque o barco inimigo a menos que seja solicitado por um Colider</li>
   <li>Se nosso barco afundar, ajude no conserto fazendo as batalhas normais! Não use o estaleiro!!!</li>
 </ol>
@@ -63,7 +63,7 @@ Decks de Guerra
 : Cada jogador deve montar seus 4 decks de guerra/regata de forma eficiente. Use cartas complementares e com o maior nível possível.
 
 Treino
-: Se estiver usando um deck novo, treine com alguem do clan antes de atacar. <br>
+: Se estiver usando um deck novo, treine com alguem do clan antes de atacar. <br><br>
 
 Se você ainda não faz parte do Pr0GamErs e se identificou com a nossa <q>filosofia de jogo</q>, veja neste link <a href="{{ site.url }}{{ site.baseurl }}/regras/faca_parte_do_pr0gamers" target="_blank">como fazer parte</a> do nosso clan. Vem batalhar conosco!
 
