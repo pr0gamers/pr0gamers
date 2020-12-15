@@ -16,6 +16,7 @@ callforaction:
 
 ## Características
 
+* Somos focados nas Guerras / Regatas
 * Jogamos muito sério, mas não somos fanáticos.
 * O pessoal é muito receptivo e unido, jogamos juntos há anos.
 * Temos grupo no whatsapp e <u><strong>NÃO É</strong></u> permitido ficar falando "abobrinhas".
@@ -28,9 +29,8 @@ callforaction:
 * Amigos dos membros são muito bem vindos!
 
 ## Objetivo e Filosofia
-
-Queremos fazer parte do ranking nacional (TOP 200) e acreditamos que a "Guerra de Clan" seja o melhor caminho para alcançarmos nossos objetivos. <br><br>
-A "Guerra de Clans" ajuda os jogadores no desenvolvimento de novas habilidades, melhora o conhecimento das cartas, diferentes decks de ataque assim como no gerenciamento do elixir e do "tempo de jogo". <br><br>
+Somos um Clan focado nas guerras/regatas! <br><br>
+A "Guerra de Clans" ajuda os jogadores no desenvolvimento de novas habilidades, melhora o conhecimento das cartas assim como no gerenciamento do elixir e do "tempo de jogo". <br><br>
 Juntamente com as "Guerras de Clan", a troca de informações entre jogadores sobre os "erros e acertos" que cometemos durante uma partida acelera a curva de aprendizado e leva nosso time para um patamar mais elevado.<br><br>
 Tudo isso acontece de forma proativa e cordial! Visamos sempre o fortalecimento do grupo antes do crescimento individual de um jogador específico. Com esta filosofia, conseguimos uma equipe unida e amiga, que se diverte jogando e evolui a cada temporada.
 

@@ -62,5 +62,3 @@ comments: true
 <p>Bom Jogo e Boa Sorte nas batalhas!</p>
 
 Se você ainda não faz parte do Pr0GamErs e se identificou com a nossa <q>filosofia de jogo</q>, veja neste link <a href="{{ site.url }}{{ site.baseurl }}/regras/faca_parte_do_pr0gamers" target="_blank">como fazer parte</a> do nosso clan. Vem batalhar conosco!
-
-

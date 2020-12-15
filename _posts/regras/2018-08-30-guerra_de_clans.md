@@ -26,34 +26,42 @@ image:
 comments: true    
 ---
 
-## Foco nas Guerras
+## Foco nas Guerras e nas batalhas da Regata
 
-Como explicamos na <a href="{{ site.url }}{{ site.baseurl }}/sobre" target="_blank">página que fala sobre o clan,</a> no Pr0GamErs estamos focados nas Guerras. Por isso, damos muita atenção para o <strong>dia da coleta</strong>, os <strong>treinamentos</strong> antes das guerras e <strong>resultados</strong> das batalhas finais.
+Como explicamos na <a href="{{ site.url }}{{ site.baseurl }}/sobre" target="_blank">página que fala sobre o clan,</a> no Pr0GamErs estamos focados nas guerras/regatas. Damos muita atenção aos 2 primeiros dias da regata (segunda feira e terça feira) e nosso objetivo é conseguir chegar em <strong>primeiro lugar</strong> rapidamente! Para isso, precisamos da participação de todos!
 <br>
 
-> <span class="teaser">As Guerras permitem que um jogador chegue no seu potencial rapidamente. Ela nos tira da zona de conforto, forçando-nos a testar novos decks, melhorando nossa capacidade de compreender o potencial de cada carta. É justamente por isso que <strong>todos</strong> precisam participar na guerra aqui no Pr0GamErs!</span><cite>[Junior C. - Colider e Marechal de Guerras no Pr0GamErs]</cite>
+<span class="teaser">As batalhas da regata permitem que um jogador chegue no seu potencial rapidamente. Ela nos tira da zona de conforto, forçando-nos a desenvolver novos decks e melhorando nossa capacidade de compreender o potencial de cada carta. É justamente por isso que <strong>todos</strong> precisam participar na guerra aqui no Pr0GamErs!</span><cite>[Luck and War - Co-Lider e General de Guerras no Pr0GamErs]</cite> 
+<br>
 
- Embora não seja necessário participar de todas as guerras, o <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank">indice de mérito</a> considera tanto as cartas coseguidas nas batalhas de coleta como os resultados nas batalhas finais. Desta forma, os jogadores que não participam muito das guerras podem ficar com um índice menor que o dos outros. Os jogadores com menor índice (desempenho mais fraco) são os que serão avaliados para sair do Clan. <br>
+Não é necessário jogar as batalhas da regata diariamente mas é fundamental que todos jogeum <strong>semanalmente nos 2 primeitos dias (toda segunda e terça feira)</strong>!
+
+
+Alem disso, é importante que entendam que nosso <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank">indice de mérito</a> considera a quantidade de pontos que cada um faz ao longo das semanas da regata. Desta forma, os jogadores que não participam muito das regatas vão ficar com um índice menor que o dos outros. Os jogadores com menor índice (desempenho mais fraco) são os que serão avaliados para sair do Clan. 
+ <br>
 
 Caso o jogador precise se afastar das guerras por um período (trabalho, família, saúde ou qualquer outro motivo) ele precisa avisar a liderança <strong><u>previamente</u></strong>! Nestes casos, somos muito flexíveis, o jogador certamente tera o tempo que precisa sem precisar se preocupar. Caso a liderança não seja avisada <strong><u>previamente</u></strong>, o jogador vai sair do Clan sem direito a retorno.
 
 
-##### »Sempre que entrar na Guerra o jogador deve:
+##### »Resumo das regras sobre Guerra/Regata:
 
 <ol>
-  <li>Jogar as 3 batalhas da Coleta</li>
-  <li>Treinar pelo menos 3 batalhas com o deck de guerra antes da Batalha Final</li>
-  <li>Jogar a Batalha Final</li>
+  <li>Participar das regatas de guerra é obrigatório</li>
+  <li>Na segunda feira o jogador precisa fazer os ataques com os 4 Decks de Batalha!</li>
+  <li>Na terça feira, o jogador precisa fazer seus 4 ataques <strong>o mais cedo possível</strong></li>.
+  <li><strong>Antes que um barco chegue em primeiro lugar</strong>, o jogador pracisa fazer um mínimo de <strong>700 pontos</strong></li>
+  <li>Não ataque o barco inimigo a menos que seja solicitado por um Colider</li>
+  <li>Se nosso barco afundar, ajude no conserto fazendo as batalhas normais! Não use o estaleiro!!!</li>
 </ol>
 
-Coleta
-: Os jogadores que não fazem as 3 batalhas da coleta prejudicam o Clan que fica com menos cartas para usar/evoluir na batalha final. Entendemos isso como uma falta de consideração com o grupo e um comportamento passível de punição.
+Batalhas da Regata
+: Os jogadores que não fazem as 8 batalhas nos 2 primeiros dias da regata (segunda e terça feira) prejudicam o desempenho do Clan na regata. Entendemos isso como uma falta de consideração com o grupo e um comportamento passível de punição. Nossa recomendação é que nos 2 primeiros dias, o jogador faça as batalhas no modo 1x1 pois aumenta a chance de conseguir pontos para o Clan. Nos demais dias, os outros modos de batalha podem ser jogados.
 
-Treinos
-: Em nossas estatísticas percebemos que os jogadores que treinam antes da batalha final tem melhor indice de performanace nas guerras. Alem disso eles ajudam outros jogadores e, consequentemente, estão ajudando o Clan. É muito comum ver alguns membros que já até venceram suas batalhas na guerra, treinando e conversando com outros jogadores que ainda fizeram suas batalhas. Esse é o <q>espírito de equipe</q> e o comprometimento que esperamos de todos os membros.
+Decks de Guerra
+: Cada jogador deve montar seus 4 decks de guerra/regata de forma eficiente. Use cartas complementares e com o maior nível possível.
 
-Batalha Final
-: Não jogar a batalha final é igual <q>batom na cueca</q>, praticamente inexplicável. Mas sabemos que imprevistos acontecem. Caso o jogador entre na guerra e posteriormente descubra que não vai ser possível jogar a batalha final, ele <em>precisa</em> avisar e explicar aos colíderes <u>antes</u> do fim da guerra. Se não for avisado, o jogador vai sair do Clan. Se o jogador teve um imprevisto e não pode avisar antes, ele precisa estar no grupo do <a href="{{ site.url }}{{ site.baseurl }}/regras/grupo_no_whatsapp" target="_blank">WhatsApp</a> para poder se explicar e voltar para o clan.
+Treino
+: Se estiver usando um deck novo, treine com alguem do clan antes de atacar.
 
 Se você ainda não faz parte do Pr0GamErs e se identificou com a nossa <q>filosofia de jogo</q>, veja neste link <a href="{{ site.url }}{{ site.baseurl }}/regras/faca_parte_do_pr0gamers" target="_blank">como fazer parte</a> do nosso clan. Vem batalhar conosco!
 
