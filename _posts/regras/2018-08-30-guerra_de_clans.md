@@ -33,7 +33,7 @@ Como explicamos na <a href="{{ site.url }}{{ site.baseurl }}/sobre" target="_bla
 
 > As batalhas da regata permitem que um jogador chegue no seu potencial rapidamente. Ela nos tira da zona de conforto, forçando-nos a desenvolver novos decks e melhorando nossa capacidade de compreender o potencial de cada carta. É justamente por isso que <strong>todos</strong> no Clan precisam participar das regatas de guerra.
 
-<cite style="text-align:right;">Luck and War (CoLider e General de Guerras no Pr0GamErs)</cite>
+<cite style="text-align:right;">-Luck and War (CoLider e General de Guerras no Pr0GamErs)</cite>
 <br>
 
 Não é necessário jogar as batalhas da regata diariamente mas é fundamental que todos joguem semanalmente nos 2 primeitos dias <strong>(toda segunda e terça feira)</strong>!
