@@ -51,7 +51,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   <li>Participar das regatas de guerra é obrigatório</li>
   <li>Na segunda feira o jogador precisa fazer os ataques com os 4 Decks de Batalha!</li>
   <li>Na terça feira, o jogador precisa fazer seus 4 ataques <strong>o mais cedo possível</strong>!</li>
-  <li>O jogador precisa fazer um <strong>mínimo de 700 pontos</strong> antes que um barco cruze a linha ou ter 900 pontos no final do segundo dia de regata.</li>
+  <li>O jogador precisa fazer um <strong>mínimo de 700 pontos</strong> antes que um barco cruze a linha ou ter <strong>900 pontos</strong> no final do segundo dia de regata (terça feira).</li>
   <li>Não ataque o barco inimigo a menos que seja solicitado por um Colider</li>
   <li>Se nosso barco afundar, ajude no conserto fazendo as batalhas normais! Não use o estaleiro!!!</li>
 </ol>
