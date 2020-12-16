@@ -45,7 +45,7 @@ Alem disso, é importante que entendam que nosso <a href="{{ site.url }}{{ site.
 Caso o jogador precise se afastar das guerras por um período (trabalho, família, saúde ou qualquer outro motivo) ele precisa avisar a liderança <strong><u>previamente</u></strong>! Nestes casos, somos muito flexíveis, o jogador certamente tera o tempo que precisa sem precisar se preocupar. Caso a liderança não seja avisada <strong><u>previamente</u></strong>, o jogador vai sair do Clan sem direito a retorno.
 
 
-##### »Resumo das regras sobre Guerra/Regata:
+##### »Resumo das regras sobre Regatas de Guerra:
 
 <ol>
   <li style="font-size: 14px; margin-bottom: 8px">Participar das regatas de guerra é obrigatório</li>
