@@ -31,7 +31,7 @@ comments: true
 Como explicamos na <a href="{{ site.url }}{{ site.baseurl }}/sobre" target="_blank">página que fala sobre o clan,</a> no Pr0GamErs estamos focados nas guerras/regatas. Damos muita atenção aos 2 primeiros dias da regata (segunda feira e terça feira) e nosso objetivo é conseguir chegar em <strong>primeiro lugar</strong> rapidamente! Para isso, precisamos da participação de todos!
 <br>
 
-> As batalhas da regata permitem que um jogador chegue no seu potencial rapidamente. Ela nos tira da zona de conforto, forçando-nos a desenvolver novos decks e melhorando nossa capacidade de compreender o potencial de cada carta. É justamente por isso que <strong>todos</strong> no Clan precisam participar das regatas de guerra.
+> As batalhas da regata permitem que um jogador chegue no seu potencial rapidamente. Ela nos tira da zona de conforto, forçando-nos a desenvolver novos decks e melhorando nossa capacidade de compreender o potencial de cada carta. É justamente por isso que <u><strong>todos</strong></u> no Clan precisam participar das regatas de guerra.
 
 <cite style="color: grey; font-style: italic;text-align:right;; display: block;">- Luck and War (CoLider e General de Guerras no Pr0GamErs)</cite>
 <br>
