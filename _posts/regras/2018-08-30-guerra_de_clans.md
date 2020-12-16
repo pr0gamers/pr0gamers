@@ -48,12 +48,12 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
 ##### »Resumo das regras sobre Guerra/Regata:
 
 <ol>
-  <li style="font-size: 15px; margin-bottom: 10px">Participar das regatas de guerra é obrigatório</li>
-  <li style="font-size: 15px">Na segunda feira o jogador precisa fazer os ataques com os 4 Decks de Batalha!</li>
-  <li style="font-size: 15px">Na terça feira, o jogador precisa fazer seus 4 ataques <strong>o mais cedo possível</strong>!</li>
-  <li style="font-size: 15px">O jogador precisa fazer um <strong>mínimo de 700 pontos</strong> antes que um barco cruze a linha ou ter <strong>900 pontos</strong> no final do segundo dia de regata (terça feira).</li>
-  <li style="font-size: 15px">Não ataque o barco inimigo a menos que seja solicitado por um Colider.</li>
-  <li style="font-size: 15px">Se nosso barco afundar, ajude no conserto fazendo as batalhas normais,<strong>não use o estaleiro</strong>!Os outros modos de batalha consertam o barco e dão mais pontos!</li>
+  <li style="font-size: 14px; margin-bottom: 8px">Participar das regatas de guerra é obrigatório</li>
+  <li style="font-size: 14px; margin-bottom: 8px">Na segunda feira o jogador precisa fazer os ataques com os 4 Decks de Batalha!</li>
+  <li style="font-size: 14px; margin-bottom: 8px">Na terça feira, o jogador precisa fazer seus 4 ataques <strong>o mais cedo possível</strong>!</li>
+  <li style="font-size: 14px; margin-bottom: 8px">O jogador precisa fazer um <strong>mínimo de 700 pontos</strong> antes que um barco cruze a linha ou ter <strong>900 pontos</strong> no final do segundo dia de regata (terça feira).</li>
+  <li style="font-size: 14px; margin-bottom: 8px">Não ataque o barco inimigo a menos que seja solicitado por um Colider.</li>
+  <li style="font-size: 14px">Se nosso barco afundar, ajude no conserto fazendo as batalhas normais,<strong>não use o estaleiro</strong>!Os outros modos de batalha consertam o barco e dão mais pontos!</li>
 </ol>
 
 Batalhas da Regata
