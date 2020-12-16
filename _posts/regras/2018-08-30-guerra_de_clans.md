@@ -48,7 +48,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
 ##### »Resumo das regras sobre Guerra/Regata:
 
 <ol>
-  <li style="font-size: 8px">Participar das regatas de guerra é obrigatório</li>
+  <li style="font-size: 12px">Participar das regatas de guerra é obrigatório</li>
   <li>Na segunda feira o jogador precisa fazer os ataques com os 4 Decks de Batalha!</li>
   <li>Na terça feira, o jogador precisa fazer seus 4 ataques <strong>o mais cedo possível</strong>!</li>
   <li>O jogador precisa fazer um <strong>mínimo de 700 pontos</strong> antes que um barco cruze a linha ou ter <strong>900 pontos</strong> no final do segundo dia de regata (terça feira).</li>
