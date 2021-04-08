@@ -36,7 +36,7 @@ Como explicamos na <a href="{{ site.url }}{{ site.baseurl }}/sobre" target="_bla
 <cite style="color: grey; font-style: italic;text-align:right;; display: block;">- Luck and War (CoLider e General de Guerras no Pr0GamErs)</cite>
 <br>
 
-Não é necessário jogar as batalhas da regata diariamente mas é fundamental que todos joguem semanalmente nos 2 primeitos dias <strong>(toda segunda e terça feira)</strong>!
+Com exceção da ultima regata do mês (a de 25.000 pontos) não é necessário jogar as batalhas da regata diariamente mas é fundamental que todos joguem semanalmente nos 2 primeiros dias <strong>(toda segunda e terça feira)</strong>! Na última regata do mês é <strong>necessário</strong> que <strong>todos joguem diariamente</strong>, mesmo depois do nosso barco ter cruzado a linha de chegada!
 
 
 Alem disso, é importante que entendam que nosso <a href="{{ site.url }}{{ site.baseurl }}/regras/indice_de_merito" target="_blank">indice de mérito</a> considera a quantidade de pontos que cada um faz ao longo das semanas da regata. Desta forma, os jogadores que não participam muito das regatas vão ficar com um índice menor que o dos outros. Os jogadores com menor índice (desempenho mais fraco) são os que serão avaliados para sair do Clan. 
