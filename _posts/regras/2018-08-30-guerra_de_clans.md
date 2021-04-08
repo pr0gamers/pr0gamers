@@ -51,7 +51,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   <li style="font-size: 14px; margin-bottom: 8px">Participar das regatas de guerra é obrigatório.</li>
   <li style="font-size: 14px; margin-bottom: 8px">Na segunda feira o jogador tem 24 horas para fazer os ataques com os 4 Decks de Batalha! Nosso objetivo é fazer <strong>mais de 30.000 pontos</strong> no primeiro dia.</li>
   <li style="font-size: 14px">
-    <p>Na terça feira, o jogador precisa fazer seus 4 ataques <strong>até 09:30 am</strong>. Na terça feira, precisamos fazer pontos de forma rápida!</p>
+    <p style="font-size: 14px; margin-bottom: 1px">Na terça feira, o jogador precisa fazer seus 4 ataques <strong>até 09:30 am</strong>. Na terça feira, precisamos fazer pontos de forma rápida!</p>
   <ul>
     <li style="font-size: 12px; margin-bottom: 5px">Se tiver batalha fluvial disponível, de preferência para ela.</li>
     <li style="font-size: 12px; margin-bottom: 5px">Se não tiver batalha fluvial disponível, ataque o primeiro barco.</li>
@@ -60,7 +60,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   </li>
   <li style="font-size: 14px; margin-bottom: 8px">O jogador precisa fazer um <strong>mínimo de 800 pontos</strong> antes que um barco cruze a linha ou precisa ter <strong>no mínimo 1.000 pontos</strong> até as 06:59 da quarta feira.</li>
   <li style="font-size: 14px">
-    <p>Ataques ao barco inimigo só devem ser feitos nas seguintes condições:</p>
+    <p style="font-size: 14px; margin-bottom: 1px">Ataques ao barco inimigo só devem ser feitos nas seguintes condições:</p>
   <ul>
     <li style="font-size: 12px; margin-bottom: 5px">Quando solicitado por um Colider.</li>
     <li style="font-size: 12px; margin-bottom: 5px">Na terça feira, se não tiver uma batalha fluvial disponível.</li>
