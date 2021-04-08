@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Todos precisam participar"
 title: "Regata da Guerra de Clans"
-teaser: "Estamos <u>sempre</u> jogando as regatas de guerra. Assim que acaba uma, começamos a outra."
+teaser: "Estamos <u>sempre</u> jogando as regatas de guerra."
 categories:
   - regras
 tags:
