@@ -51,7 +51,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   <li style="font-size: 14px; margin-bottom: 8px">Participar das regatas de guerra é obrigatório.</li>
   <li style="font-size: 14px; margin-bottom: 8px">Na segunda feira o jogador tem 24 horas para fazer os ataques com os 4 Decks de Batalha! Nosso objetivo é fazer <strong>mais de 30.000 pontos</strong> no primeiro dia.</li>
   <li style="font-size: 14px">
-    <p style="font-size: 14px; margin-bottom: 1px">Na terça feira, o jogador precisa fazer seus 4 ataques <strong>até 09:30 am</strong>. Na terça feira, precisamos fazer pontos de forma rápida!</p>
+    <a style="font-size: 14px; margin-bottom: 1px">Na terça feira, o jogador precisa fazer seus 4 ataques <strong>até 09:30 am</strong>. Precisamos fazer pontos de forma rápida!</a>
   <ul>
     <li style="font-size: 12px; margin-bottom: 5px">Se tiver batalha fluvial disponível, de preferência para ela.</li>
     <li style="font-size: 12px; margin-bottom: 5px">Se não tiver batalha fluvial disponível, ataque o primeiro barco.</li>
