@@ -50,7 +50,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
 <ol>
   <li style="font-size: 14px; margin-bottom: 8px">Participar das regatas de guerra é obrigatório.</li>
   <li style="font-size: 14px; margin-bottom: 8px">Na segunda feira o jogador tem 24 horas para fazer os ataques com os 4 Decks de Batalha! Nosso objetivo é fazer <strong>mais de 30.000 pontos</strong> no primeiro dia.</li>
-  <li style="font-size: 14px; margin-bottom: 8px">
+  <li style="font-size: 14px">
     <p>Na terça feira, o jogador precisa fazer seus 4 ataques <strong>até 09:30 am</strong>. Na terça feira, precisamos fazer pontos de forma rápida!</p>
   <ul>
     <li style="font-size: 12px; margin-bottom: 5px">Se tiver batalha fluvial disponível, de preferência para ela.</li>
@@ -59,7 +59,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   </ul>
   </li>
   <li style="font-size: 14px; margin-bottom: 8px">O jogador precisa fazer um <strong>mínimo de 800 pontos</strong> antes que um barco cruze a linha ou precisa ter <strong>no mínimo 1.000 pontos</strong> até as 06:59 da quarta feira.</li>
-  <li style="font-size: 14px; margin-bottom: 8px">
+  <li style="font-size: 14px">
     <p>Ataques ao barco inimigo só devem ser feitos nas seguintes condições:</p>
   <ul>
     <li style="font-size: 12px; margin-bottom: 5px">Quando solicitado por um Colider.</li>
@@ -67,9 +67,8 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   </ul>
   </li>
   <li style="font-size: 14px; margin-bottom: 8px">Se nosso barco afundar, ajude no conserto fazendo as batalhas normais, <strong>não use o estaleiro</strong>! Os outros modos de batalha consertam o barco e dão mais pontos!</li>
-  <li style="font-size: 14px; margin-bottom: 8px">Na última regata da temporada (25.000 pontos), é <strong>OBRIGATÓRIO</strong> fazer os 4 ataques diariamente, até o início da próxima guerra. Nesta regata, precisamos que joguem as 4 partidas <strong>todos os dias da semana</strong> (mesmo depois do nosso barco ter cruzado a linha)!</li>
+  <li style="font-size: 14px">Na última regata da temporada (25.000 pontos), é <strong>OBRIGATÓRIO</strong> fazer os 4 ataques diariamente, até o início da próxima guerra. Nesta regata, precisamos que joguem as 4 partidas <strong>todos os dias da semana</strong> (mesmo depois do nosso barco ter cruzado a linha)!</li>
 </ol>
-<br>
 
 Batalhas da Regata
 : Os jogadores que não fazem as 8 batalhas nos 2 primeiros dias da regata (segunda e terça feira) prejudicam o desempenho do Clan na regata. Entendemos isso como uma falta de consideração com o grupo e um comportamento passível de punição. <br><br>
