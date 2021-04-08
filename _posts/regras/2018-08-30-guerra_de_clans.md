@@ -66,6 +66,7 @@ Caso o jogador precise se afastar das guerras por um período (trabalho, famíli
   <li style="font-size: 14px">Na última regata da temporada (25.000 pontos), é <strong>OBRIGATÓRIO</strong> fazer os 4 ataques diariamente,  até o início da próxima guerra. Nesta regata, precisamos que joguem as 4 partidas <strong>todos os dias da semana</strong> (mesmo depois do nosso barco ter cruzado a linha).</li>
 </ol>
 
+
 Batalhas da Regata
 : Os jogadores que não fazem as 8 batalhas nos 2 primeiros dias da regata (segunda e terça feira) prejudicam o desempenho do Clan na regata. Entendemos isso como uma falta de consideração com o grupo e um comportamento passível de punição. <br><br>
 Nossa recomendação é que nos 2 primeiros dias, o jogador faça as batalhas no modo 1x1 pois aumenta a chance de conseguir pontos para o Clan. Nos demais dias, os outros modos de batalha podem ser jogados.
